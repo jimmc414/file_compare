@@ -1,6 +1,6 @@
 # File Comparison Tool
 
-This program compares two text files and prints whether they are identical or lists the differences if they are not.
+This is a simple program that compares two text files and prints whether they are identical or lists the differences if they are not.
 
 ## Usage
 
